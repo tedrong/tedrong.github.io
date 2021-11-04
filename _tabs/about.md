@@ -8,7 +8,7 @@ order: 4
 ---
 ## Education
 #### &nbsp;Qualifications
-&nbsp;&nbsp;Master fo Science in Computer Science and Information Engineering  
+&nbsp;&nbsp;Master of Science in Computer Science and Information Engineering  
 &nbsp;&nbsp;National Dong Hwa University, Taiwan, 2017
 #### &nbsp;Language
 &nbsp;&nbsp;English - Basic  
